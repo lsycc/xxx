@@ -4,7 +4,8 @@ public class Test {
 
 	public static void main(String[] args) {
 		System.out.println("testBranch");
-		System.out.println("master add");
+		System.out.println("== add");
+		System.out.println("---");
 	}
 
 }
